@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JarlShadown
 - 👀 I’m interested in the new technologies 8)
-- 🌱 I’m currently learning Angular, C# and Mobile Applications
+- 🌱 I’m currently learning Software Architect and deeping into C#
 - 💞️ I’m looking to collaborate on Angular projects.
 - 📫 How to reach me miguel.payran.del.angel@outlook.com
 - .NET Developer, Road to Software Arquitect
